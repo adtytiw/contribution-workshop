@@ -1,5 +1,4 @@
 
-
 * PALLAVI
 * chinmay
 * Misbah 
@@ -37,7 +36,6 @@
 * Rayyan
 * Alfiya
 * purva
-* Aryan
 * yash
 * Som
 * Prem
@@ -45,7 +43,6 @@
 * Ahad
 * 
 * Palak
-* yash
 * Ayaan
 * vedant
 * Aditya
@@ -57,5 +54,5 @@
 * mahreen
 * Smit
 * Ishika
-
-vrishabh
+vrishabh* chinmay
+* Advait
